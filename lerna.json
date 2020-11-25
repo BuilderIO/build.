@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "packages/*",
+    "examples/*"
+  ],
+  "version": "independent",
+  "useWorkspaces": true
+}

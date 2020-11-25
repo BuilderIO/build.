@@ -1,0 +1,21 @@
+{
+  "name": "@build./repo",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "examples/*"
+  ],
+  "scripts": {
+    "docs": "doctoc --title '**Table of content**' README.md",
+    "clean": "lerna run clean",
+    "build": "lerna run build",
+    "pub": "lerna publish",
+    "test": "lerna run test"
+  },
+  "devDependencies": {
+    "doctoc": "~1.4.0",
+    "eslint": "~7.12.0",
+    "lerna": "~3.22.0",
+    "typescript": "~4.0.0"
+  }
+}
