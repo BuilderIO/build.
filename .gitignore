@@ -1,6 +1,11 @@
-node_modules
-dist
-results
-.nyc_output
-*.tsbuildinfo
-.DS_Store
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
