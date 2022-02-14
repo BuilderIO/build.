@@ -2,6 +2,6 @@
 
 <img src="https://imgur.com/DF6ZRgi.gif">
 
-## Coming soon
+## Status
 
-Follow us at [twitter.com/BuilderIO](//twitter.com/BuilderIO) for updates on this project
+We have put this experiment on pause for now, to prioritize a simpler/easier interaction system in Builder. But this is still an area we would love to explore deeper in the future
